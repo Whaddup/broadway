@@ -2,11 +2,36 @@ body {text-align: center;
 font-family: helvetica;
 }
 
+p {font-size: 14px;}
+
+h1 {font-size: 23px;
+font-weight: bold;}
+
+h2 {font-size: 23px;
+font-weight: bold;}
+
+#superheader {font-size: 70px;
+font-weight: bold;
+}
+
 #header {color: white;
   background-image: url("https://whaddup.github.io/broadway/images/flatiron.png");}
 
+#sizeitup {font-size: 32px;
+font-weight: bold;}
 
 .footerbar {background-color: dimgray;
-color: white;}
+color: white;
+text-align: left;
+}
 
-.clickablelink {color: white;}
+.clickablelink {color: white;
+font-size: 18px;
+}
+
+#bottombar {background-image: url("https://whaddup.github.io/broadway/images/flatiron.png");
+color: white;
+font-size: 23px;
+font-weight: bold;}
+
+#copyright {font-size: 11px;}
